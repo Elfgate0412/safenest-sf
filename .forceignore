@@ -1,0 +1,5 @@
+**/profiles/**
+**/unfiled$public/**
+**/translations/**
+**/settings/**        # add back selectively if you use them
+**/*-meta.xml#*       # tmp files on some editors
