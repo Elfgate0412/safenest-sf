@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Has_Private_Bathroom__c</fullName>
+  <label>Has Private Bathroom</label>
+  <type>Checkbox</type>
+  <defaultValue>false</defaultValue>
+</CustomField>

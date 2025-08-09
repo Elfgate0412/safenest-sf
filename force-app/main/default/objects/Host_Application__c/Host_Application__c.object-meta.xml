@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+  <label>Host Application</label>
+  <pluralLabel>Host Applications</pluralLabel>
+  <nameField>
+    <type>AutoNumber</type>
+    <label>Host Application #</label>
+    <displayFormat>HA-{00000}</displayFormat>
+  </nameField>
+  <deploymentStatus>Deployed</deploymentStatus>
+  <sharingModel>ReadWrite</sharingModel>
+  <enableActivities>true</enableActivities>
+</CustomObject>
