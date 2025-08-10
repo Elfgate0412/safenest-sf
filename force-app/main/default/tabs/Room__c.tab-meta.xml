@@ -2,5 +2,6 @@
 <CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
   <fullName>Room__c</fullName>
   <label>Rooms</label>
+  <customObject>true</customObject>
   <motif>Custom23: Anchor</motif>
 </CustomTab>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>Host_Application__c.Host_Application_Approval</members>
+    <name>ApprovalProcess</name>
+  </types>
+  <types>
+    <members>Host_Application__c</members>
+    <name>Workflow</name>
+  </types>
+  <types>
+    <members>Property__c</members>
+    <members>Room__c</members>
+    <members>Listing__c</members>
+    <name>CustomTab</name>
+  </types>
+  <types>
+    <members>Account.Approved__c</members>
+    <members>Account.External_Auth_Subject__c</members>
+    <members>Contact.External_Auth_Subject__c</members>
+    <name>CustomField</name>
+  </types>
+  <types>
+    <members>Host_Portal</members>
+    <members>Host_Admin_Additions</members>
+    <name>PermissionSet</name>
+  </types>
+  <version>61.0</version>
+</Package>

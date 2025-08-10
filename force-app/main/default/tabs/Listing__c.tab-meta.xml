@@ -2,5 +2,6 @@
 <CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
   <fullName>Listing__c</fullName>
   <label>Listings</label>
+  <customObject>true</customObject>
   <motif>Custom55: Books</motif>
 </CustomTab>
